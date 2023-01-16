@@ -1,0 +1,34 @@
+PODS:
+  - bitsdojo_window_macos (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+  - macos_secure_bookmarks (0.0.3):
+    - FlutterMacOS
+  - path_provider_macos (0.0.1):
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - bitsdojo_window_macos (from `Flutter/ephemeral/.symlinks/plugins/bitsdojo_window_macos/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - macos_secure_bookmarks (from `Flutter/ephemeral/.symlinks/plugins/macos_secure_bookmarks/macos`)
+  - path_provider_macos (from `Flutter/ephemeral/.symlinks/plugins/path_provider_macos/macos`)
+
+EXTERNAL SOURCES:
+  bitsdojo_window_macos:
+    :path: Flutter/ephemeral/.symlinks/plugins/bitsdojo_window_macos/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  macos_secure_bookmarks:
+    :path: Flutter/ephemeral/.symlinks/plugins/macos_secure_bookmarks/macos
+  path_provider_macos:
+    :path: Flutter/ephemeral/.symlinks/plugins/path_provider_macos/macos
+
+SPEC CHECKSUMS:
+  bitsdojo_window_macos: 44e3b8fe3dd463820e0321f6256c5b1c16bb6a00
+  FlutterMacOS: ae6af50a8ea7d6103d888583d46bd8328a7e9811
+  macos_secure_bookmarks: cff041c4b377fa00941bb901aaec4d27fac5edf2
+  path_provider_macos: 05fb0ef0cedf3e5bd179b9e41a638682b37133ea
+
+PODFILE CHECKSUM: 353c8bcc5d5b0994e508d035b5431cfe18c1dea7
+
+COCOAPODS: 1.11.3
